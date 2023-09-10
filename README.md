@@ -3,8 +3,8 @@
 
 - Interested in Back-End development
 - Algorithms and Data Structures fascinate me
-- Low-level programming is my foe 
 - Functional programming is my friend
+- Low-level programming is my foe 
 
  
 ### Languages
