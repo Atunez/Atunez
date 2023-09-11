@@ -36,8 +36,8 @@
 ### My GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atunez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atunez&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atunez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atunez&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ### Free Time
